@@ -1,6 +1,7 @@
 {
   "name": "react-cource",
   "private": true,
+  "homepage": "https://github.com/PranavPatil9765/Plant_shopping",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
